@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ViewHolders</string>
+    <string name="user_apellido">apellido</string>
+    <string name="user_foto">foto</string>
+    <string name="new_numero">numero</string>
+</resources>
